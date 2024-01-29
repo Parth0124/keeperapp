@@ -3,8 +3,6 @@ import Footer from "./components/Footer"
 import Header from "./components/Header"
 import notes from "./notes"
 
-
-
 function App() {
   return (
     <div>
