@@ -27,7 +27,7 @@ const notes = [
       key: 5,
       title: "MacBook vs. Windows",
       content:
-        "Which is better Mac or Windows? Mac is the Rolls Royce in the world full of Suzuki"
+        "Which is better Mac or Windows? Mac is the Rolls Royce in the world full of Suzukiq"
     }
   ];
   
